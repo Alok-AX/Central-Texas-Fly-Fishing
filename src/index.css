@@ -486,11 +486,6 @@ h2 {
   }
 }
 
-/* 
-  The .devider class styles a horizontal line used as a visual separator.
-  It is set to have a height of 1px, stretch across the full width of its container,
-  and has a background color of #C6C5C3. Margins are applied to provide spacing above and below.
-*/
 .devider {
   height: 1px;
   width: 100%;
